@@ -1,7 +1,7 @@
 #include <stdio.h>
 /**
  * reset_to_98 -  the function name
- * *n: function parameter
+ * @n: function parameter
  */
 
 void reset_to_98(int *n)
