@@ -1,1 +1,1 @@
-This is basically my c project
+This is low level programming referring to c programming
