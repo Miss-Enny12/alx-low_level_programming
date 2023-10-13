@@ -1,11 +1,10 @@
 #include <stdio.h>
 #include <stdsrg.h>
 /**
- * print_numbers - prints number with a new line
- * @seperator: the string
- * @n: the number of integers
- * @...: a variable number to be printed
- * Return: always 0
+ * print_numbers - prints numbers followed by a new line
+ * @seperator: the string to be printed between numbers
+ * @n: the number of integers passed to the function
+ * @...: a variable number of numbers of numbers to be printed
  */
 void print_numbers(const char *separator, const unsigned int n, ...)
 {
